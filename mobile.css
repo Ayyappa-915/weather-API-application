@@ -33,7 +33,7 @@ button:hover {
 }
 input {
     width: 3cm;
-    height:0.5cm;
+    height:0.4cm;
 }
 #for {
     display: flex;
@@ -41,7 +41,7 @@ input {
     justify-content: center;
 }
 label {
-    font-size: 0.2cm;
+    font-size: 0.4cm;
 }
 #result {
     color: red;
@@ -68,4 +68,8 @@ label {
     box-shadow: blue;
     color:white;
     font-weight: bolder;
+}
+h2
+{
+    font-size: 0.4cm;
 }

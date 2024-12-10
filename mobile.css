@@ -5,9 +5,6 @@
     border-style: double;
     border-color: black;
     border-radius: 0.2cm;
-    padding-bottom: 0.3cm;
-    margin: 0.5cm 3cm;
-    border-width: 0.1cm;
     background-color: white;
 }
 body
@@ -41,16 +38,16 @@ input {
     justify-content: center;
 }
 label {
-    font-size: 0.4cm;
+   
 }
 #result {
     color: red;
-    font-size: 0.2cm;
+   
 }
 #loading
 {
     color: green;
-    font-size: 0.2cm;
+    
 }
 #display
 {
@@ -58,7 +55,7 @@ label {
     display: block;
     text-align: center;
     text-decoration: darkblue;
-    font-size: 0.3cm;
+    
     color: white;
 }
 #weather-info
